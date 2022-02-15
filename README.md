@@ -15,13 +15,13 @@ This Text Editor is a PWA which features several different methods of data persi
 
 Run the deployed link and click install to run the application on your device. 
 
-
+https://fast-retreat-91953.herokuapp.com/
 
 ## Usage
 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![screenshot of the deoplyed app](assets/images/text-editor-screenshot.png)
     ```
 
 ## License
