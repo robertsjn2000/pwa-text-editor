@@ -20,9 +20,8 @@ https://fast-retreat-91953.herokuapp.com/
 ## Usage
 
 
-    ```md
-    ![screenshot of the deoplyed app](client/source/images/screenshot.png)
-    ```
+![screenshot of the deployed app](./client/src/images/screenshot.png)
+    
 
 ## License
 
