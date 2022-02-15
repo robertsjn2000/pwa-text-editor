@@ -21,7 +21,7 @@ https://fast-retreat-91953.herokuapp.com/
 
 
     ```md
-    ![screenshot of the deoplyed app](client/source/images/text-editor-screenshot.png)
+    ![screenshot of the deoplyed app](client/source/images/screenshot.png)
     ```
 
 ## License
